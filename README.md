@@ -1,1 +1,3 @@
 # T6_IntroR
+
+TAREA 1: TIPOS DE DATOS
